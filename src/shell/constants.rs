@@ -1,0 +1,9 @@
+pub const PATH: &str = "PATH";
+pub const PWD: &str = "pwd";
+pub const HOME: &str = "HOME";
+// pub const CAT: &str = "cat";
+pub const ECHO: &str = "echo";
+pub const EXIT: &str = "exit";
+pub const TYPE: &str = "type";
+pub const CD: &str = "cd";
+// pub const LS: &str = "ls";
